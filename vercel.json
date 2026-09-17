@@ -3,6 +3,7 @@
   "name": "wasender-saas-dashboard",
   "cleanUrls": true,
   "trailingSlash": false,
+  "installCommand": "echo 'Skipping root npm install on Linux'",
   "buildCommand": "echo 'Frontend static assets ready'",
   "outputDirectory": "server/public",
   "headers": [
