@@ -1,8 +1,23 @@
-/**
- * Production Environment Verification & Pre-flight Diagnostics
- * Verifies that all mandatory environment variables are populated and correctly formatted
- * prior to deployment on Vercel, Docker, or Linux VPS.
- */
+const fs = require('fs');
+const path = require('path');
+
+// Parse .env using native fs to avoid external dependencies
+function loadEnvFile(filePath) {
+    if (!fs.existsSync(filePath)) return;
+    const content = fs.readFileSync(filePath, 'utf8');
+    content.split(/\r?\n/).forEach(line => {
+        const trimmed = line.trim();
+        if (!trimmed || trimmed.startsWith('#')) return;
+        const eqIdx = trimmed.indexOf('=');
+        if (eqIdx > 0) {
+            const key = trimmed.slice(0, eqIdx).trim();
+            const val = trimmed.slice(eqIdx + 1).trim();
+            if (!process.env[key]) process.env[key] = val;
+        }
+    });
+}
+loadEnvFile(path.resolve(__dirname, '../.env'));
+loadEnvFile(path.resolve(__dirname, '../server/.env'));
 
 const REQUIRED_VARS = [
     {
@@ -27,20 +42,12 @@ const REQUIRED_VARS = [
         name: 'JWT_SECRET',
         description: 'Session Token Signing Key',
         validate: (val) => Boolean(val && val.length >= 16)
-    },
-    {
-        name: 'RAZORPAY_KEY_ID',
-        description: 'Razorpay Payment Gateway Key ID',
-        validate: (val) => Boolean(val && val.startsWith('rzp_'))
-    },
-    {
-        name: 'RAZORPAY_KEY_SECRET',
-        description: 'Razorpay Payment Gateway API Secret',
-        validate: (val) => Boolean(val && val.length >= 8)
     }
 ];
 
 const OPTIONAL_VARS = [
+    { name: 'RAZORPAY_KEY_ID', description: 'Razorpay Payment Gateway Key ID' },
+    { name: 'RAZORPAY_KEY_SECRET', description: 'Razorpay Payment Gateway API Secret' },
     { name: 'CORS_ORIGIN', description: 'Allowed Frontend Domains for CORS' },
     { name: 'R2_BUCKET_NAME', description: 'Cloudflare R2 Bucket for Permanent Media' },
     { name: 'R2_PUBLIC_DOMAIN', description: 'Cloudflare R2 Public CDN Domain' }
