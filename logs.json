@@ -1,0 +1,6030 @@
+[
+  {
+    "timestamp": "2026-08-16T18:37:06.304Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:37:26.317Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:37:46.315Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:38:06.325Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:38:26.335Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:39:37.419Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:40:37.413Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:40:57.419Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:41:17.429Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:41:37.442Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:41:57.451Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:43:08.511Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:44:08.522Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:44:28.533Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:44:48.539Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:45:08.540Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:45:28.541Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:46:39.519Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:47:39.523Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:47:59.540Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:48:19.556Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:48:39.557Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:48:59.573Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:50:10.540Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:51:10.549Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:51:30.565Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:51:50.579Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:52:10.583Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:52:30.591Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:53:41.570Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:54:41.583Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:55:01.587Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:55:21.597Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:55:41.607Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:56:01.615Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:57:12.598Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:58:12.597Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:58:32.609Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:58:52.610Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:59:12.625Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T18:59:32.634Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:00:43.724Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:01:43.716Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:02:03.724Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:02:23.728Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:02:43.743Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:03:03.753Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:04:14.751Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:05:14.745Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:05:34.747Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:05:54.747Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:06:14.765Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:06:34.767Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:07:46.330Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:08:46.337Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:09:06.350Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:09:26.357Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:09:46.358Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:10:06.369Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:11:17.348Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:12:17.355Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:12:37.370Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:12:57.380Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:13:17.389Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:13:37.391Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:14:48.537Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:15:48.547Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:16:08.553Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:16:28.555Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:16:48.557Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:17:08.564Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:18:19.757Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:19:19.755Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:19:39.769Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:19:59.773Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:20:19.786Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:20:39.799Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:21:50.803Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:22:50.812Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:23:10.825Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:23:30.840Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:23:50.852Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:24:10.858Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:25:21.993Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:26:22.000Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:26:42.006Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:27:02.022Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:27:22.029Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:27:42.031Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:28:53.630Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:29:53.648Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:30:13.657Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:30:33.665Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:30:53.671Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:31:13.686Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:32:24.650Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:33:24.660Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:33:44.673Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:34:04.685Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:34:24.694Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:34:44.704Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:35:55.810Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:36:55.819Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:37:15.823Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:37:35.839Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:37:55.843Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:38:15.854Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:39:26.934Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:40:26.942Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:40:46.944Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:41:06.955Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:41:26.963Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:41:46.979Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:42:57.978Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:43:57.991Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:44:18.001Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:44:38.003Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:44:58.010Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:45:18.015Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:46:29.141Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:47:29.155Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:47:49.162Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:48:09.178Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:48:29.196Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:48:49.201Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:50:00.324Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:51:00.327Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:51:20.331Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:51:40.335Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:52:00.349Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:52:20.363Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:53:31.472Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:54:31.484Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:54:51.488Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:55:11.492Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:55:31.494Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:55:51.506Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:57:01.927Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:58:01.942Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:58:21.957Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:58:41.971Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:59:01.977Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T19:59:21.980Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:00:33.042Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:01:33.050Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:01:53.058Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:02:13.066Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:02:33.064Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:02:53.071Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:04:04.195Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:05:04.202Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:05:24.205Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:05:44.207Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:06:04.221Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:06:24.231Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:07:35.338Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:08:35.340Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:08:55.355Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:09:15.369Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:09:35.379Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:09:55.383Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:11:06.384Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:12:06.399Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:12:26.399Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:12:46.416Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:13:06.416Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:13:26.425Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:14:37.376Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:15:37.384Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:15:57.392Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:16:17.404Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:16:37.414Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:16:57.422Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:18:08.412Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:19:08.422Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:19:28.422Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:19:48.435Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:20:08.431Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:20:28.446Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:21:39.534Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:22:39.529Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:22:59.538Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:23:19.545Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:23:39.570Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:23:59.577Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:25:11.044Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:26:11.058Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:26:31.060Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:26:51.074Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:27:11.083Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:27:31.094Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:28:42.068Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:29:42.084Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:30:02.087Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:30:22.094Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:30:42.109Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:31:02.123Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:32:13.194Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:33:13.202Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:33:33.206Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:33:53.220Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:34:13.224Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:34:33.231Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:35:44.181Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:36:44.194Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:37:04.211Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:37:24.227Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:37:44.239Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:38:04.247Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:39:15.137Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:40:15.157Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:40:35.172Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:40:55.180Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:41:15.184Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:41:35.196Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:42:46.209Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:43:46.214Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:44:06.230Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:44:26.245Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:44:46.253Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:45:06.263Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:46:17.171Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:47:17.181Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:47:37.193Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:47:57.207Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:48:17.206Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:48:37.220Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:49:48.090Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:50:48.095Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:51:08.106Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:51:28.107Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:51:48.108Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:52:08.114Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:53:19.196Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:54:19.196Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:54:39.208Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:54:59.218Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:55:19.232Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:55:39.240Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:56:50.411Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:57:50.410Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:58:10.415Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:58:30.417Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:58:50.428Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T20:59:10.429Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:00:21.383Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:01:21.385Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:01:41.390Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:02:01.405Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:02:21.411Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:02:41.422Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:03:52.009Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:04:52.019Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:05:12.022Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:05:32.023Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:05:52.028Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:06:12.042Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:07:21.998Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:08:21.997Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:08:42.004Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:09:02.015Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:09:22.030Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:09:42.046Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:10:53.110Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:11:53.124Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:12:13.138Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:12:33.154Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:12:53.168Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:13:13.183Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:14:24.217Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:15:24.217Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:15:44.221Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:16:04.227Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:16:24.231Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:16:44.241Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:17:55.199Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:18:55.205Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:19:15.207Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:19:35.220Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:19:55.224Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:20:15.239Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:21:26.367Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:22:26.366Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:22:46.374Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:23:06.380Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:23:26.386Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:23:46.394Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:24:57.425Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:25:57.434Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:26:17.437Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:26:37.439Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:26:57.453Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:27:17.466Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:28:28.575Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:29:28.589Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:29:48.602Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:30:08.614Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:30:28.625Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:30:48.629Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:31:59.475Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:32:59.481Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:33:19.496Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:33:39.508Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:33:59.508Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:34:19.523Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:35:30.974Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:36:30.979Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:36:50.988Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:37:11.002Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:37:31.006Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:37:51.009Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:39:01.919Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:40:01.924Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:40:21.935Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:40:41.946Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:41:01.963Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:41:21.978Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:42:33.026Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:43:33.031Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:43:53.045Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:44:13.048Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:44:33.060Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:44:53.073Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:46:04.217Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:47:04.218Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:47:24.233Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:47:44.240Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:48:04.248Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:48:24.253Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:49:35.234Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:50:35.236Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:50:55.241Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:51:15.245Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:51:35.265Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:51:55.279Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:53:06.424Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:54:06.434Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:54:26.438Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:54:46.440Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:55:06.453Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:55:26.464Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:56:37.516Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:57:37.516Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:57:57.520Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:58:17.529Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:58:37.530Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T21:58:57.541Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:00:08.481Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:01:08.488Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:01:28.491Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:01:48.505Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:02:08.505Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:02:28.509Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:03:39.607Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:04:39.606Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:04:59.618Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:05:19.620Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:05:39.625Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:05:59.641Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:07:10.680Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:08:10.684Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:08:30.693Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:08:50.703Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:09:10.713Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:09:30.727Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:10:41.662Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:11:41.662Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:12:01.670Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:12:21.683Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:12:41.693Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:13:01.694Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:14:12.713Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:15:12.718Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:15:32.720Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:15:52.724Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:16:12.737Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:16:32.750Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:17:43.892Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:18:43.896Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:19:03.904Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:19:23.914Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:19:43.915Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:20:03.924Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:21:15.074Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:22:15.081Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:22:35.086Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:22:55.097Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:23:15.112Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:23:35.114Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:24:46.156Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:25:46.158Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:26:06.171Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:26:26.178Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:26:46.186Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:27:06.196Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:28:17.257Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:29:17.272Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:29:37.288Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:29:57.302Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:30:17.311Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:30:37.313Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:31:48.461Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:32:48.467Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:33:08.474Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:33:28.477Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:33:48.490Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:34:08.502Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:35:19.432Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:36:19.443Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:36:39.455Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:36:59.464Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:37:19.462Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:37:39.470Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:38:50.423Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:39:50.434Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:40:10.432Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:40:30.442Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:40:50.453Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:41:10.465Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:42:21.536Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:43:21.538Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:43:41.551Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:44:01.555Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:44:21.557Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:44:41.568Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:45:52.672Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:46:52.685Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:47:12.694Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:47:32.708Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:47:52.710Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:48:12.718Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:49:23.732Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:50:23.733Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:50:43.739Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:51:03.749Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:51:23.752Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:51:43.754Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:52:54.864Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:53:54.873Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:54:14.874Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:54:34.876Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:54:54.889Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:55:14.894Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:56:26.029Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:57:26.028Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:57:46.036Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:58:06.036Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:58:26.041Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:58:46.041Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T22:59:57.037Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:00:57.048Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:01:17.062Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:01:37.062Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:01:57.066Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:02:17.080Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:03:28.035Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:04:28.047Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:04:48.062Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:05:08.075Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:05:28.088Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:05:48.104Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:06:59.039Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:07:59.050Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:08:19.060Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:08:39.076Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:08:59.080Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:09:19.094Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:10:30.100Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:11:30.092Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:11:50.094Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:12:10.099Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:12:30.113Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:12:50.121Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:14:01.055Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:15:01.052Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:15:21.056Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:15:41.056Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:16:01.070Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:16:21.074Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:17:32.154Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:18:32.163Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:18:52.166Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:19:12.173Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:19:32.172Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:19:52.176Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:21:03.443Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:22:03.441Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:22:23.451Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:22:43.454Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:23:03.471Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:23:23.479Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:24:34.577Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:25:34.580Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:25:54.585Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:26:14.586Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:26:34.599Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:26:54.615Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:28:05.678Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:29:05.685Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:29:25.695Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:29:45.711Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:30:05.714Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:30:25.722Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:31:36.768Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:32:36.773Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:32:56.781Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:33:16.784Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:33:36.792Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:33:56.800Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:35:07.896Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:36:07.909Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:36:27.913Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:36:47.924Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:37:07.925Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:37:27.944Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:38:38.753Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:39:38.753Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:39:58.760Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:40:18.768Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:40:38.770Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:40:58.782Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:42:09.896Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:43:09.901Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:43:29.910Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:43:49.926Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:44:09.930Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:44:29.939Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:45:41.001Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:46:41.013Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:47:01.020Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:47:21.024Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:47:41.027Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:48:01.042Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:49:12.046Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:50:12.060Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:50:32.078Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:50:52.090Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:51:12.100Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:51:32.113Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:52:43.044Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:53:43.037Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:54:03.040Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:54:23.043Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:54:43.057Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:55:03.063Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:56:14.112Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:57:14.125Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:57:34.131Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:57:54.145Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:58:14.163Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:58:34.171Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-16T23:59:45.243Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:00:45.249Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:01:05.262Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:01:25.268Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:01:45.282Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:02:05.291Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:03:16.496Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:04:16.499Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:04:36.504Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:04:56.521Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:05:16.524Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:05:36.539Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:06:47.625Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:07:47.646Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:08:07.661Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:08:27.677Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:08:47.686Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:09:07.700Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:10:18.658Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:11:18.665Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:11:38.672Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:11:58.677Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:12:18.674Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:12:38.687Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:13:49.825Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:14:49.822Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:15:09.824Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:15:29.829Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:15:49.832Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:16:09.838Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:17:21.069Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:18:21.068Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:18:41.074Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:19:01.084Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:19:18.834Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:19:38.848Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:20:49.964Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:21:49.973Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:22:09.988Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:22:30.002Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:22:50.002Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:23:10.018Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:24:21.004Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:25:21.010Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:25:41.015Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:26:01.019Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:26:21.029Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:26:41.034Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:27:52.085Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:28:52.096Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:29:12.102Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:29:32.109Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:29:52.109Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:30:12.120Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:31:23.102Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:32:23.105Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:32:43.113Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:33:03.127Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:33:23.144Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:33:43.148Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:34:54.042Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:35:54.052Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:36:14.055Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:36:34.059Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:36:54.067Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:37:14.082Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:38:25.189Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:39:25.200Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:39:45.201Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:40:05.212Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:40:25.222Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:40:45.230Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:41:56.434Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:42:56.441Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:43:16.458Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:43:36.472Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:43:56.477Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:44:16.485Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:45:27.634Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:46:27.635Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:46:47.651Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:47:07.655Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:47:27.664Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:47:47.679Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:48:58.744Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:49:58.758Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:50:18.763Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:50:38.768Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:50:58.772Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:51:18.781Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:52:29.939Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:53:29.940Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:53:49.944Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:54:09.954Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:54:29.959Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:54:49.975Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:56:01.068Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:57:01.080Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:57:21.090Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:57:41.097Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:58:01.104Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:58:21.104Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T00:59:32.013Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:00:32.015Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:00:52.029Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:01:12.030Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:01:32.034Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:01:52.046Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:03:03.149Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:04:03.159Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:04:23.161Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:04:43.167Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:05:03.171Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:05:23.183Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:06:34.198Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:07:34.200Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:07:54.215Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:08:14.225Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:08:34.239Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:08:54.242Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:10:05.338Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:11:05.345Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:11:25.347Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:11:45.355Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:12:05.369Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:12:25.374Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:13:36.421Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:14:36.425Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:14:56.440Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:15:16.456Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:15:36.463Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:15:56.481Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:17:07.843Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:18:07.844Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:18:27.847Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:18:47.852Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:19:07.871Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:19:27.884Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:20:39.144Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:21:39.150Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:21:59.154Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:22:19.167Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:22:39.176Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:22:59.182Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:24:09.615Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:25:09.625Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:25:29.635Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:25:49.643Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:26:09.647Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:26:29.663Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:27:40.790Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:28:40.805Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:29:00.807Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:29:20.815Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:29:40.820Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:30:00.834Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:31:11.851Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:32:11.865Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:32:31.866Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:32:51.873Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:33:11.887Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:33:31.892Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:34:42.923Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:35:42.941Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:36:02.942Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:36:22.953Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:36:42.959Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:37:02.961Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:38:14.119Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:39:14.129Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:39:34.134Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:39:54.148Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:40:14.160Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:40:34.170Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:41:45.277Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:42:45.284Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:43:05.295Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:43:25.301Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:43:45.314Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:44:05.328Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:45:16.294Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:46:16.292Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:46:36.294Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:46:56.303Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:47:16.316Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:47:36.326Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:48:47.432Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:49:47.445Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:50:07.457Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:50:27.472Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:50:47.489Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:51:07.501Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:52:18.539Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:53:18.537Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:53:38.540Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:53:58.545Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:54:18.561Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:54:38.562Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:55:49.436Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:56:49.444Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:57:09.445Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:57:29.451Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:57:49.454Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:58:09.460Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T01:59:20.513Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:00:20.512Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:00:40.516Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:01:00.532Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:01:20.547Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:01:40.564Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:02:51.530Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:03:51.545Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:04:11.558Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:04:31.568Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:04:51.586Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:05:11.589Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:06:22.416Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:07:22.425Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:07:42.429Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:08:02.439Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:08:22.449Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:08:42.465Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:09:53.511Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:10:53.525Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:11:13.526Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:11:33.528Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:11:53.536Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:12:13.544Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:13:24.888Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:14:24.897Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:14:44.905Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:15:04.906Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:15:24.912Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:15:44.926Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:16:55.918Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:17:55.919Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:18:15.923Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:18:35.934Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:18:55.944Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:19:15.958Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:20:27.048Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:21:27.052Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:21:47.053Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:22:07.064Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:22:27.067Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:22:47.075Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:23:58.069Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:24:58.080Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:25:18.095Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:25:38.110Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:25:58.126Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:26:18.142Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:27:29.075Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:28:29.083Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:28:49.090Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:29:09.091Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:29:29.098Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:29:49.102Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:31:00.152Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:32:00.157Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:32:20.171Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:32:40.181Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:33:00.195Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:33:20.203Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:34:31.356Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:35:31.368Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:35:51.376Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:36:11.389Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:36:31.397Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:36:51.409Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:38:02.454Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:39:02.457Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:39:22.470Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:39:42.484Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:40:02.496Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:40:22.501Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:41:33.422Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:42:33.433Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:42:53.436Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:43:13.438Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:43:33.432Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:43:53.446Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:45:04.529Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:46:04.550Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:46:24.549Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:46:44.556Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:47:04.570Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:47:24.576Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:48:35.773Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:49:35.774Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:49:55.777Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:50:15.780Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:50:35.778Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:50:55.780Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:52:06.749Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:53:06.771Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:53:26.784Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:53:46.797Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:54:06.799Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:54:26.815Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:55:37.841Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:56:37.853Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:56:57.863Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:57:17.866Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:57:37.883Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:57:57.897Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T02:59:08.774Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:00:08.789Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:00:28.803Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:00:48.813Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:01:08.820Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:01:28.822Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:02:39.752Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:03:39.749Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:03:59.758Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:04:19.764Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:04:39.782Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:04:59.786Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:06:10.855Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:07:10.856Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:07:30.868Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:07:50.883Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:08:10.896Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:08:30.910Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:09:41.873Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:10:41.874Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:11:01.876Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:11:21.882Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:11:41.893Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:12:01.901Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:13:13.041Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:14:13.064Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:14:33.069Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:14:53.080Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:15:13.087Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:15:33.100Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:16:43.948Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:17:43.959Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:18:03.973Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:18:23.988Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:18:43.999Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:19:04.011Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:20:15.385Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:21:15.391Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:21:35.393Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:21:55.397Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:22:15.406Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:22:35.420Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:23:46.552Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:24:46.556Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:25:06.570Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:25:26.572Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:25:46.574Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:26:06.587Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:27:17.577Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:28:17.582Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:28:37.584Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:28:57.590Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:29:17.591Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:29:37.604Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:30:00.005Z",
+    "type": "info",
+    "message": "🏦 Scheduled Job: Triggering PDC Alerts for [raja]",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:30:00.008Z",
+    "type": "info",
+    "message": "Running PDC checks for [raja]...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:30:01.096Z",
+    "type": "success",
+    "message": "Message sent successfully (Job: jp4ko)",
+    "data": {
+      "number": "919677745476",
+      "id": "BUSY_1786937401066_jp4ko"
+    }
+  },
+  {
+    "timestamp": "2026-08-17T03:30:48.706Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:31:48.724Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:32:08.734Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:32:28.744Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:32:48.749Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:33:08.751Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:34:19.847Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:35:19.858Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:35:39.873Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:35:59.873Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:36:19.893Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:36:39.899Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:37:50.914Z",
+    "type": "info",
+    "message": "QR Code received for client new",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:38:19.977Z",
+    "type": "info",
+    "message": "Deleting WhatsApp connection: new (port 5001)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T03:38:22.444Z",
+    "type": "success",
+    "message": "WhatsApp connection deleted: new (port 5001 freed)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:27.317Z",
+    "type": "info",
+    "message": "Received STOCK command from +919677745476 (117570585809108@lid): \"stock\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:27.318Z",
+    "type": "info",
+    "message": "Verifying customer phone number +919677745476 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:29.320Z",
+    "type": "info",
+    "message": "Authorized customer *Muruganantham - Cutting* (+919677745476). Querying BUSY stock items for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:29.839Z",
+    "type": "info",
+    "message": "Found 56 items. Generating Stock PDF report for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:30.998Z",
+    "type": "info",
+    "message": "Sending PDF file to +919677745476...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:32.356Z",
+    "type": "success",
+    "message": "Sent Closing Stock PDF report to +919677745476 (56 items)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:32.358Z",
+    "type": "info",
+    "message": "Authorized customer *E.S.R.FABRICS* (+919677745476). Querying BUSY stock items for firm New Firm...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:33.122Z",
+    "type": "info",
+    "message": "Found 7 items. Generating Stock PDF report for firm New Firm...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:34.350Z",
+    "type": "info",
+    "message": "Sending PDF file to +919677745476...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:00:36.034Z",
+    "type": "success",
+    "message": "Sent Closing Stock PDF report to +919677745476 (7 items)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:26:51.151Z",
+    "type": "warning",
+    "message": "Client 'Default Account' lost WhatsApp sync (state: OPENING). Auto-reconnecting...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:26:51.153Z",
+    "type": "warning",
+    "message": "Self-healing reconnect started for connection: Default Account",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T05:26:53.856Z",
+    "type": "error",
+    "message": "CRITICAL SERVER ERROR",
+    "data": {
+      "error": "createClientInstance is not defined",
+      "stack": "ReferenceError: createClientInstance is not defined\n    at Timeout._onTimeout (D:\\WASENDER\\server.js:3611:31)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+    }
+  },
+  {
+    "timestamp": "2026-08-17T14:06:40.231Z",
+    "type": "info",
+    "message": "Server starting up",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:40.236Z",
+    "type": "success",
+    "message": "Server started on port 5000",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:40.237Z",
+    "type": "info",
+    "message": "Initializing WhatsApp Clients...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:47.584Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 0% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:49.602Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 17% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:50.521Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 42% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:50.608Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 44% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:51.620Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 62% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:52.647Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 69% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:53.651Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 87% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:54.657Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 96% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:55.137Z",
+    "type": "info",
+    "message": "[Default Account] Loading: 100% - WhatsApp",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:57.917Z",
+    "type": "success",
+    "message": "[Default Account] WhatsApp authenticated",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:06:59.261Z",
+    "type": "success",
+    "message": "WhatsApp Client [Default Account] is ready (+919677745476)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:07:13.381Z",
+    "type": "info",
+    "message": "Received STOCK command from +916381122028 (117072336031892@lid): \"stock\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:07:13.383Z",
+    "type": "info",
+    "message": "Verifying customer phone number +916381122028 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:07:14.681Z",
+    "type": "info",
+    "message": "Authorized customer *A.R.S Vel & Co* (+916381122028). Querying BUSY stock items for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:07:15.215Z",
+    "type": "info",
+    "message": "Found 56 items. Generating Stock PDF report for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:07:16.282Z",
+    "type": "info",
+    "message": "Sending PDF file to +916381122028...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:07:20.300Z",
+    "type": "success",
+    "message": "Sent Closing Stock PDF report to +916381122028 (56 items)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:20.266Z",
+    "type": "info",
+    "message": "Received STOCK command from +918144663460 (201219318522006@lid): \"Batch_Stock_C__Vigneshkumar_Textiles_1786978053546.pdf\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:20.267Z",
+    "type": "info",
+    "message": "Verifying customer phone number +918144663460 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:21.806Z",
+    "type": "warning",
+    "message": "BATCH STOCK command rejected for +918144663460 (Not Admin)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:22.094Z",
+    "type": "info",
+    "message": "Received STOCK command from +919677745476 (201219318522006@lid): \"⚠️ *Admin Access Required*\n\nSorry, the batch-wise stock report is restricted to admin users only.\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:22.096Z",
+    "type": "info",
+    "message": "Verifying customer phone number +919677745476 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:23.162Z",
+    "type": "info",
+    "message": "Authorized customer *Muruganantham - Cutting* (+919677745476). Querying BUSY stock items for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:23.636Z",
+    "type": "warning",
+    "message": "No stock items found for +919677745476 in firm raja",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:23.652Z",
+    "type": "info",
+    "message": "Authorized customer *E.S.R.FABRICS* (+919677745476). Querying BUSY stock items for firm New Firm...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:53:24.424Z",
+    "type": "warning",
+    "message": "No stock items found for +919677745476 in firm New Firm",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:01.795Z",
+    "type": "info",
+    "message": "Received STOCK command from +918144663460 (201219318522006@lid): \"⚠️ *Admin Access Required*\n\nSorry, the batch-wise stock report is restricted to admin users only.\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:01.796Z",
+    "type": "info",
+    "message": "Verifying customer phone number +918144663460 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:02.827Z",
+    "type": "warning",
+    "message": "BATCH STOCK command rejected for +918144663460 (Not Admin)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:02.837Z",
+    "type": "info",
+    "message": "Received STOCK command from +919677745476 (201219318522006@lid): \"⚠️ *Admin Access Required*\n\nSorry, the batch-wise stock report is restricted to admin users only.\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:02.839Z",
+    "type": "info",
+    "message": "Verifying customer phone number +919677745476 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:03.856Z",
+    "type": "info",
+    "message": "Authorized customer *Muruganantham - Cutting* (+919677745476). Querying BUSY stock items for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:04.309Z",
+    "type": "warning",
+    "message": "No stock items found for +919677745476 in firm raja",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:04.324Z",
+    "type": "info",
+    "message": "Authorized customer *E.S.R.FABRICS* (+919677745476). Querying BUSY stock items for firm New Firm...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T14:54:04.985Z",
+    "type": "warning",
+    "message": "No stock items found for +919677745476 in firm New Firm",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:17.656Z",
+    "type": "info",
+    "message": "Received STOCK command from +919677745476 (201219318522006@lid): \"stock\"",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:17.658Z",
+    "type": "info",
+    "message": "Verifying customer phone number +919677745476 in BUSY database...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:18.697Z",
+    "type": "info",
+    "message": "Authorized customer *Muruganantham - Cutting* (+919677745476). Querying BUSY stock items for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:19.195Z",
+    "type": "info",
+    "message": "Found 56 items. Generating Stock PDF report for firm raja...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:20.228Z",
+    "type": "info",
+    "message": "Sending PDF file to +919677745476...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:21.787Z",
+    "type": "success",
+    "message": "Sent Closing Stock PDF report to +919677745476 (56 items)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:21.789Z",
+    "type": "info",
+    "message": "Authorized customer *E.S.R.FABRICS* (+919677745476). Querying BUSY stock items for firm New Firm...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:22.585Z",
+    "type": "info",
+    "message": "Found 7 items. Generating Stock PDF report for firm New Firm...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:23.820Z",
+    "type": "info",
+    "message": "Sending PDF file to +919677745476...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-17T15:06:24.804Z",
+    "type": "success",
+    "message": "Sent Closing Stock PDF report to +919677745476 (7 items)",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-18T03:30:00.015Z",
+    "type": "info",
+    "message": "🏦 Scheduled Job: Triggering PDC Alerts for [raja]",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-18T03:30:00.017Z",
+    "type": "info",
+    "message": "Running PDC checks for [raja]...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-18T03:30:01.058Z",
+    "type": "success",
+    "message": "Message sent successfully (Job: vflzq)",
+    "data": {
+      "number": "919677745476",
+      "id": "BUSY_1787023801029_vflzq"
+    }
+  },
+  {
+    "timestamp": "2026-08-18T05:25:38.443Z",
+    "type": "queue",
+    "message": "Priority message queued for 919677745476 (Job: uu3p0)",
+    "data": {
+      "number": "919677745476",
+      "hasFile": true,
+      "id": "919677745476_1787030738443_uu3p0",
+      "priority": true
+    }
+  },
+  {
+    "timestamp": "2026-08-18T05:25:39.422Z",
+    "type": "success",
+    "message": "Message sent successfully (Job: uu3p0)",
+    "data": {
+      "number": "919677745476",
+      "id": "919677745476_1787030738443_uu3p0"
+    }
+  },
+  {
+    "timestamp": "2026-08-18T05:26:22.481Z",
+    "type": "queue",
+    "message": "Priority message queued for 919677745476 (Job: 23hn1)",
+    "data": {
+      "number": "919677745476",
+      "hasFile": true,
+      "id": "919677745476_1787030782480_23hn1",
+      "priority": true
+    }
+  },
+  {
+    "timestamp": "2026-08-18T05:26:23.677Z",
+    "type": "success",
+    "message": "Message sent successfully (Job: 23hn1)",
+    "data": {
+      "number": "919677745476",
+      "id": "919677745476_1787030782480_23hn1"
+    }
+  },
+  {
+    "timestamp": "2026-08-18T09:26:43.568Z",
+    "type": "warning",
+    "message": "Client 'Default Account' lost WhatsApp sync (state: OPENING). Auto-reconnecting...",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-18T09:26:43.569Z",
+    "type": "warning",
+    "message": "Self-healing reconnect started for connection: Default Account",
+    "data": null
+  },
+  {
+    "timestamp": "2026-08-18T09:26:46.241Z",
+    "type": "error",
+    "message": "CRITICAL SERVER ERROR",
+    "data": {
+      "error": "createClientInstance is not defined",
+      "stack": "ReferenceError: createClientInstance is not defined\n    at Timeout._onTimeout (D:\\WASENDER\\server.js:3611:31)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+    }
+  }
+]

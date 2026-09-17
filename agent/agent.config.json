@@ -1,0 +1,10 @@
+{
+  "cloudApiUrl": "http://localhost:5001",
+  "agentVersion": "1.0.0",
+  "deviceName": "Workstation PC",
+  "tenantId": null,
+  "deviceId": null,
+  "deviceToken": null,
+  "isPaired": false,
+  "pairedAt": null
+}

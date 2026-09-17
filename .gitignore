@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# WhatsApp Web session data & local browser cache
+.wwebjs_auth/
+.wwebjs_cache/
+session/
+sessions/
+auth_info_baileys/
+tokens/
+
+# Build artifacts & binaries
+agent/dist/
+dist/
+build/
+*.exe
+
+# Logs & temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+temp/
+tmp/
+*.tmp
+uploads/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

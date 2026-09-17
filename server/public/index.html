@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WASENDER — Multi-Tenant SaaS WhatsApp & BUSY Automation</title>
+    <meta name="description" content="Production-ready multi-tenant WhatsApp bulk messaging and BUSY Accounting automation SaaS platform.">
+    <link rel="stylesheet" href="/css/dashboard.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- SIDEBAR NAVIGATION -->
+        <aside class="sidebar" id="app-sidebar">
+            <div class="brand-header">
+                <div class="brand-logo-icon">W</div>
+                <div>
+                    <div class="brand-title">WASENDER</div>
+                    <span class="brand-badge">SaaS v1.0</span>
+                </div>
+            </div>
+
+            <nav class="nav-menu" id="main-navigation">
+                <a class="nav-item active" data-view="view-dashboard" id="nav-dashboard">
+                    <span class="nav-icon">📊</span>
+                    <span class="nav-label">Overview</span>
+                </a>
+                <a class="nav-item" data-view="view-whatsapp" id="nav-whatsapp">
+                    <span class="nav-icon">💬</span>
+                    <span class="nav-label">WhatsApp Accounts</span>
+                </a>
+                <a class="nav-item" data-view="view-devices" id="nav-devices">
+                    <span class="nav-icon">💻</span>
+                    <span class="nav-label">Windows Agents</span>
+                </a>
+                <a class="nav-item" data-view="view-busy" id="nav-busy">
+                    <span class="nav-icon">🏢</span>
+                    <span class="nav-label">BUSY Accounting</span>
+                </a>
+                <a class="nav-item" data-view="view-campaigns" id="nav-campaigns">
+                    <span class="nav-icon">📤</span>
+                    <span class="nav-label">Bulk Campaigns</span>
+                </a>
+                <a class="nav-item" data-view="view-contacts" id="nav-contacts">
+                    <span class="nav-icon">👥</span>
+                    <span class="nav-label">Contacts & Tags</span>
+                </a>
+                <a class="nav-item" data-view="view-templates" id="nav-templates">
+                    <span class="nav-icon">📝</span>
+                    <span class="nav-label">Message Templates</span>
+                </a>
+                <a class="nav-item" data-view="view-reports" id="nav-reports">
+                    <span class="nav-icon">📜</span>
+                    <span class="nav-label">Reports & Logs</span>
+                </a>
+                <a class="nav-item" data-view="view-billing" id="nav-billing">
+                    <span class="nav-icon">💳</span>
+                    <span class="nav-label">Billing & Quotas</span>
+                </a>
+                <a class="nav-item" data-view="view-admin" id="nav-admin">
+                    <span class="nav-icon">🛡️</span>
+                    <span class="nav-label">Super-Admin</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="tenant-selector-card" id="tenant-card">
+                    <div class="tenant-avatar" id="tenant-avatar">T</div>
+                    <div class="tenant-info">
+                        <div class="tenant-name" id="tenant-display-name">Demo Organization</div>
+                        <div class="tenant-tier" id="tenant-plan-badge">Enterprise Tier</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- MAIN WRAPPER -->
+        <div class="main-wrapper">
+            <!-- TOP HEADER -->
+            <header class="top-header">
+                <div class="page-title-section">
+                    <h1 id="page-heading">Dashboard Overview</h1>
+                    <p id="page-subheading">Real-time automation telemetry and multi-tenant control</p>
+                </div>
+                <div class="header-actions">
+                    <div class="live-status-pill" id="ws-status-badge">
+                        <div class="status-dot-pulse" id="ws-pulse-dot"></div>
+                        <span id="ws-status-text">Live WebSocket Connected</span>
+                    </div>
+                    <button class="btn btn-secondary" id="btn-quick-sync-busy" title="Trigger instant BUSY firm sync">
+                        <span>🔄 Sync BUSY</span>
+                    </button>
+                    <button class="btn btn-primary" id="btn-new-campaign" title="Create new WhatsApp broadcast">
+                        <span>+ New Campaign</span>
+                    </button>
+                </div>
+            </header>
+
+            <!-- MAIN CONTENT AREA -->
+            <main class="content-area">
+
+                <!-- 1. DASHBOARD OVERVIEW -->
+                <section class="view-section active" id="view-dashboard">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span>Messages Dispatched</span>
+                                <div class="stat-icon-wrapper" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">📤</div>
+                            </div>
+                            <div class="stat-value" id="kpi-total-sent">12,480</div>
+                            <div class="stat-footer"><span class="trend-up">↑ 14%</span> from last week</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span>Delivery Success Rate</span>
+                                <div class="stat-icon-wrapper" style="background: rgba(6, 182, 212, 0.15); color: #06b6d4;">🎯</div>
+                            </div>
+                            <div class="stat-value" id="kpi-delivery-rate">99.2%</div>
+                            <div class="stat-footer">Across 100+ active contacts</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span>Active Windows Agents</span>
+                                <div class="stat-icon-wrapper" style="background: rgba(99, 102, 241, 0.15); color: #6366f1;">💻</div>
+                            </div>
+                            <div class="stat-value" id="kpi-agents-online">2 Online</div>
+                            <div class="stat-footer" id="kpi-agents-sub">Warehouse & Accounts PC</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-header">
+                                <span>Monthly Quota Headroom</span>
+                                <div class="stat-icon-wrapper" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b;">⚡</div>
+                            </div>
+                            <div class="stat-value" id="kpi-quota-remaining">12,520</div>
+                            <div class="stat-footer">of 25,000 monthly limit</div>
+                        </div>
+                    </div>
+
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Recent Real-time Activity</h3>
+                                <p class="panel-subtitle">Live stream of WhatsApp messages, invoice dispatches, and agent events</p>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="data-table" id="table-recent-activity">
+                                <thead>
+                                    <tr>
+                                        <th>Timestamp</th>
+                                        <th>Event Type</th>
+                                        <th>Recipient / Details</th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="activity-log-body">
+                                    <tr>
+                                        <td>Just now</td>
+                                        <td><strong>BUSY Invoice Dispatched</strong></td>
+                                        <td>+91 98765 43210 (Voucher #TAX-2026-0042)</td>
+                                        <td><span class="badge badge-success">✓ Delivered</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2 mins ago</td>
+                                        <td><strong>Outstanding Reminder</strong></td>
+                                        <td>+91 91123 45678 (Balaji Hardware)</td>
+                                        <td><span class="badge badge-success">✓ Sent</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 2. WHATSAPP & QR STREAM -->
+                <section class="view-section" id="view-whatsapp">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Live WhatsApp Session Link</h3>
+                                <p class="panel-subtitle">Scan the QR code with WhatsApp on your phone or link via phone number</p>
+                            </div>
+                            <div class="header-actions">
+                                <button class="btn btn-secondary" id="btn-request-qr">🔄 Request Fresh QR</button>
+                                <button class="btn btn-outline-danger" id="btn-clear-session">Clear Session</button>
+                            </div>
+                        </div>
+
+                        <div style="text-align: center; padding: 20px 0;">
+                            <div class="qr-stream-box" id="qr-box-container">
+                                <img id="qr-image" src="" alt="WhatsApp Web QR Code" class="qr-stream-img" style="display: none;">
+                                <div id="qr-placeholder-spinner">
+                                    <div style="font-size: 32px; margin-bottom: 12px;">📱</div>
+                                    <div style="font-weight: 600; color: #1e293b;">Agent Ready</div>
+                                    <div style="font-size: 11px; color: #64748b; margin-top: 4px;">Click "Request Fresh QR" to generate</div>
+                                </div>
+                                <div class="qr-countdown-bar">
+                                    <div class="qr-countdown-progress" id="qr-progress-bar" style="width: 100%;"></div>
+                                </div>
+                            </div>
+                            <div style="margin-top: 24px; color: var(--text-secondary); font-size: 13px;" id="qr-status-text">
+                                Ephemeral in-memory QR streaming. Codes refresh every 20 seconds.
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 3. WINDOWS AGENTS & DEVICES -->
+                <section class="view-section" id="view-devices">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Paired Windows Agents</h3>
+                                <p class="panel-subtitle">On-premise WASENDER Windows Agent background services running alongside BUSY Accounting</p>
+                            </div>
+                            <button class="btn btn-primary" id="btn-show-pair-modal">+ Pair New Agent</button>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Device Name</th>
+                                        <th>Device ID</th>
+                                        <th>Status</th>
+                                        <th>Agent Version</th>
+                                        <th>Last Ping</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="devices-table-body">
+                                    <tr>
+                                        <td><strong>Warehouse Dispatch PC</strong></td>
+                                        <td><code>dev-01-wh</code></td>
+                                        <td><span class="badge badge-success">● ONLINE</span></td>
+                                        <td>v1.0.0</td>
+                                        <td>12s ago</td>
+                                        <td><button class="btn btn-secondary" style="padding: 4px 10px; font-size: 11px;">Ping</button></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 4. BUSY ACCOUNTING BRIDGE -->
+                <section class="view-section" id="view-busy">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Connected BUSY Companies / Firms</h3>
+                                <p class="panel-subtitle">Local database instances (MS Access BDS / MSSQL) mapped to this SaaS tenant</p>
+                            </div>
+                            <button class="btn btn-primary" id="btn-sync-firms-cloud">🔄 Ingest Firms from Agent</button>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Firm Name</th>
+                                        <th>Firm Code</th>
+                                        <th>GST Number</th>
+                                        <th>Address</th>
+                                        <th>Database Driver</th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="busy-firms-table-body">
+                                    <tr>
+                                        <td><strong>Maharaja Steel Traders</strong></td>
+                                        <td><code>COMP0001</code></td>
+                                        <td>24AAACM1234F1Z8</td>
+                                        <td>100 Ring Road, Surat</td>
+                                        <td>MS Access</td>
+                                        <td><span class="badge badge-success">Active</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 5. BULK CAMPAIGNS -->
+                <section class="view-section" id="view-campaigns">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Launch WhatsApp Broadcast Campaign</h3>
+                                <p class="panel-subtitle">Multi-recipient bulk messaging with anti-ban delay and mustache template variables</p>
+                            </div>
+                        </div>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+                            <div>
+                                <div class="form-group">
+                                    <label class="form-label">Campaign Title</label>
+                                    <input type="text" class="form-control" id="campaign-title" placeholder="e.g. Diwali Festive Offer 2026">
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label">Target Tag Group</label>
+                                    <select class="form-control" id="campaign-tag-select">
+                                        <option value="VIP">VIP Customers</option>
+                                        <option value="Wholesale">Wholesale Dealers</option>
+                                        <option value="Retail">Retail Walk-ins</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label">Campaign Message Body</label>
+                                    <textarea class="form-control" id="campaign-message-body" placeholder="Dear {{name}}, special discount on invoice {{invoice_no}}!"></textarea>
+                                </div>
+                                <button class="btn btn-primary" id="btn-submit-campaign">🚀 Dispatch Campaign</button>
+                            </div>
+                            <div style="background: rgba(15, 23, 42, 0.5); border: 1px dashed var(--border-subtle); border-radius: var(--radius-md); padding: 20px;">
+                                <h4 style="font-size: 14px; margin-bottom: 12px; color: var(--text-secondary);">Campaign Dispatch Queue</h4>
+                                <div style="display: flex; justify-content: space-between; margin-bottom: 16px;">
+                                    <span>Pending: <strong id="queue-pending-count">0</strong></span>
+                                    <span>Sent: <strong id="queue-sent-count">0</strong></span>
+                                </div>
+                                <div style="display: flex; gap: 10px;">
+                                    <button class="btn btn-secondary" id="btn-queue-pause">⏸️ Pause</button>
+                                    <button class="btn btn-secondary" id="btn-queue-resume">▶️ Resume</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 6. CONTACTS & TAGS -->
+                <section class="view-section" id="view-contacts">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Address Book & Contacts</h3>
+                                <p class="panel-subtitle">Manage customer directory and WhatsApp contact numbers</p>
+                            </div>
+                            <div class="header-actions">
+                                <input type="text" class="form-control" id="contact-search-input" placeholder="Search contacts..." style="width: 200px;">
+                                <button class="btn btn-primary" id="btn-import-csv">+ Import CSV</button>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Phone</th>
+                                        <th>Customer Code</th>
+                                        <th>Tags</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="contacts-table-body">
+                                    <tr>
+                                        <td>Johnathan Doe</td>
+                                        <td><code>+91 98765 43210</code></td>
+                                        <td>CUST-001</td>
+                                        <td><span class="badge badge-neutral">VIP</span> <span class="badge badge-neutral">Wholesale</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 7. MESSAGE TEMPLATES -->
+                <section class="view-section" id="view-templates">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Reusable Message Templates</h3>
+                                <p class="panel-subtitle">Mustache variable templates for automated reminders and invoices</p>
+                            </div>
+                            <button class="btn btn-primary" id="btn-add-template">+ Create Template</button>
+                        </div>
+                        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;" id="templates-grid">
+                            <div class="panel-card" style="margin-bottom: 0;">
+                                <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+                                    <h4>Payment Reminder</h4>
+                                    <span class="badge badge-neutral">billing</span>
+                                </div>
+                                <p style="font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 12px;">
+                                    Dear {{customer_name}}, your outstanding invoice {{invoice_no}} of amount {{amount}} is due on {{due_date}}.
+                                </p>
+                                <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+                                    <span class="badge badge-success">customer_name</span>
+                                    <span class="badge badge-success">amount</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 8. REPORTS & LOGS -->
+                <section class="view-section" id="view-reports">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Audit Trails & Telemetry Exports</h3>
+                                <p class="panel-subtitle">Historical compliance records and CSV export engine</p>
+                            </div>
+                            <div class="header-actions">
+                                <a class="btn btn-secondary" id="btn-export-messages-csv" href="/api/v1/reports/export/messages" download>📥 Export Messages CSV</a>
+                                <a class="btn btn-secondary" id="btn-export-audit-csv" href="/api/v1/reports/export/audit-logs" download>📥 Export Audit Trail</a>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Date/Time</th>
+                                        <th>Recipient Phone</th>
+                                        <th>Direction</th>
+                                        <th>Status</th>
+                                        <th>Message Summary</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="reports-table-body">
+                                    <tr>
+                                        <td>2026-09-18 00:15</td>
+                                        <td>+91 98765 43210</td>
+                                        <td>OUTBOUND</td>
+                                        <td><span class="badge badge-success">SENT</span></td>
+                                        <td>Voucher #TAX-2026-0042 dispatched</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 9. BILLING & SUBSCRIPTIONS -->
+                <section class="view-section" id="view-billing">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">SaaS Subscription Plans</h3>
+                                <p class="panel-subtitle">Transparent pricing with automated Razorpay checkout and offline licenses</p>
+                            </div>
+                        </div>
+                        <div class="pricing-grid">
+                            <!-- Starter -->
+                            <div class="plan-card">
+                                <h3>Starter</h3>
+                                <p style="color: var(--text-muted); font-size: 12px; margin-top: 4px;">Small retailers & single workstation</p>
+                                <div class="plan-price">₹799 <span style="font-size: 14px; font-weight: 500; color: var(--text-muted);">/mo</span></div>
+                                <ul class="plan-features-list">
+                                    <li class="plan-feature-item">1 Windows Agent</li>
+                                    <li class="plan-feature-item">2 WhatsApp Accounts</li>
+                                    <li class="plan-feature-item">5,000 Messages / mo</li>
+                                    <li class="plan-feature-item">Automated Invoice PDF</li>
+                                </ul>
+                                <button class="btn btn-secondary" onclick="app.upgradePlan('starter')">Select Starter</button>
+                            </div>
+
+                            <!-- Growth (Featured) -->
+                            <div class="plan-card featured">
+                                <div class="plan-featured-badge">Most Popular</div>
+                                <h3>Growth</h3>
+                                <p style="color: var(--text-muted); font-size: 12px; margin-top: 4px;">Growing multi-branch setups</p>
+                                <div class="plan-price">₹1,999 <span style="font-size: 14px; font-weight: 500; color: var(--text-muted);">/mo</span></div>
+                                <ul class="plan-features-list">
+                                    <li class="plan-feature-item">3 Windows Agents</li>
+                                    <li class="plan-feature-item">5 WhatsApp Accounts</li>
+                                    <li class="plan-feature-item">25,000 Messages / mo</li>
+                                    <li class="plan-feature-item">PDC Cheque Alerts</li>
+                                    <li class="plan-feature-item">Batch Stock Telegram/WA Bot</li>
+                                </ul>
+                                <button class="btn btn-primary" onclick="app.upgradePlan('growth')">Upgrade to Growth</button>
+                            </div>
+
+                            <!-- Enterprise -->
+                            <div class="plan-card">
+                                <h3>Enterprise</h3>
+                                <p style="color: var(--text-muted); font-size: 12px; margin-top: 4px;">Large distributors & enterprises</p>
+                                <div class="plan-price">₹4,999 <span style="font-size: 14px; font-weight: 500; color: var(--text-muted);">/mo</span></div>
+                                <ul class="plan-features-list">
+                                    <li class="plan-feature-item">10 Windows Agents</li>
+                                    <li class="plan-feature-item">10 WhatsApp Accounts</li>
+                                    <li class="plan-feature-item">100,000 Messages / mo</li>
+                                    <li class="plan-feature-item">Custom Templates & SLA</li>
+                                    <li class="plan-feature-item">Dedicated Support</li>
+                                </ul>
+                                <button class="btn btn-secondary" onclick="app.upgradePlan('enterprise')">Select Enterprise</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 10. SUPER-ADMIN PORTAL -->
+                <section class="view-section" id="view-admin">
+                    <div class="panel-card">
+                        <div class="panel-header">
+                            <div>
+                                <h3 class="panel-title">Super-Admin Multi-Tenant Oversight</h3>
+                                <p class="panel-subtitle">Global organization directory and cryptographic license key generator</p>
+                            </div>
+                        </div>
+                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+                            <div>
+                                <h4 style="font-size: 15px; margin-bottom: 12px;">Generate Offline License Key</h4>
+                                <div class="form-group">
+                                    <label class="form-label">License Tier</label>
+                                    <select class="form-control" id="admin-license-tier">
+                                        <option value="ENTERPRISE">ENTERPRISE (Uncapped)</option>
+                                        <option value="GROWTH">GROWTH</option>
+                                        <option value="STARTER">STARTER</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label">Duration (Days)</label>
+                                    <input type="number" class="form-control" id="admin-license-days" value="365">
+                                </div>
+                                <button class="btn btn-primary" id="btn-admin-generate-key">🔑 Generate Signed Key</button>
+                                <div id="admin-generated-key-box" style="margin-top: 14px; font-family: 'JetBrains Mono', monospace; font-size: 13px; color: var(--brand-primary); word-break: break-all;"></div>
+                            </div>
+                            <div>
+                                <h4 style="font-size: 15px; margin-bottom: 12px;">Global System Telemetry</h4>
+                                <ul style="list-style: none; font-size: 13px; color: var(--text-secondary); line-height: 2;">
+                                    <li>VPS Cloud API Status: <span class="badge badge-success">Online (5001)</span></li>
+                                    <li>WebSocket Channels: <code>/agent/ws</code> & <code>/browser/ws</code></li>
+                                    <li>PostgreSQL RLS: <span class="badge badge-success">Zero-Recursion Active</span></li>
+                                    <li>Connected Tenants: <strong>100+ Ready</strong></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </main>
+        </div>
+    </div>
+
+    <!-- TOAST NOTIFICATION CONTAINER -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>

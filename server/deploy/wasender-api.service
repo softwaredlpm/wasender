@@ -1,0 +1,29 @@
+[Unit]
+Description=WASENDER Cloud Multi-Tenant SaaS VPS API & WebSocket Hub
+After=network.target remote-fs.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/wasender/server
+ExecStart=/usr/bin/node src/index.js
+Restart=always
+RestartSec=5s
+Environment=NODE_ENV=production
+Environment=PORT=5001
+
+# Resource limits and process management
+LimitNOFILE=65535
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=wasender-api
+
+# Security sandbox
+ProtectSystem=full
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

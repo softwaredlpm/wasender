@@ -1,0 +1,30 @@
+{
+  "name": "wasender-agent",
+  "version": "1.0.0",
+  "description": "WASENDER Customer Windows PC Agent (Local BUSY & WhatsApp Automation Engine)",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/agent-client.test.js",
+    "test:packaging": "node tests/packaging.test.js",
+    "build:win": "pkg . --targets node18-win-x64 --output dist/WASENDER-Agent.exe"
+  },
+  "dependencies": {
+    "axios": "0.27.2",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#main",
+    "ws": "^8.18.0"
+  },
+  "pkg": {
+    "assets": [
+      "busy_db_bridge.ps1",
+      "busy_config.json"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  }
+}
