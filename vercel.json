@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "wasender-saas-dashboard",
-  "public": true,
   "cleanUrls": true,
   "trailingSlash": false,
   "buildCommand": "echo 'Frontend static assets ready'",
